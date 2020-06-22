@@ -1,0 +1,5 @@
+pytest
+jupyter_client
+nbformat
+ipykernel
+nbval
