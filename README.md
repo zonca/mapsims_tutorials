@@ -14,10 +14,6 @@ It is easier to install them with Conda, but pip should work as well:
 
     conda install healpy pysm3
 
-The tutorial only requires `mapsims`, it can be installed via PyPI:
+The tutorial requires `mapsims`, `so_noise_models` and `pixell`, they can be installed with:
 
-    pip install mapsims
-
-The notebooks on CAR pixelization also require `pixell`:
-
-    pip install pixell
+    pip install -r requirements.txt

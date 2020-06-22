@@ -1,1 +1,5 @@
+healpy
+pysm3
+so_pysm_models
+git+git://github.com/simonsobs/so_noise_models.git@1ef1236134fe9d275761454e406834bebc6d7646
 mapsims
