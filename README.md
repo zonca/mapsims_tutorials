@@ -1,3 +1,5 @@
+![Tests](https://github.com/simonsobs/mapsims_tutorials/workflows/Python%20package/badge.svg)
+
 `mapsims` tutorials
 ===================
 
