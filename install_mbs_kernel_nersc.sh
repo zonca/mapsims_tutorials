@@ -1,3 +1,1 @@
-module load python
-source activate /global/common/software/sobs/mbs/
-install_mbs_kernel.sh
+/global/common/software/sobs/mbs/bin/python -m ipykernel install --user --name sobs-mbs --display-name "Simons Obs MBS"
