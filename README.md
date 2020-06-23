@@ -7,7 +7,19 @@ Notebooks on how to use [`mapsims`](https://github.com/simonsobs/mapsims) and [S
 
 ## Setup at NERSC
 
-Work in progress
+* Login to [Jupyter@NERSC](https://jupyter.nersc.gov)
+* Open a terminal
+* Clone this repository:
+
+        git clone https://github.com/simonsobs/mapsims_tutorials
+
+* Run the kernel installation script:
+
+        bash install_mbs_kernel_nersc.sh
+
+* Refresh the browser page
+* You should have now the "Simons Obs MBS" kernel
+
 
 ## Local setup
 
